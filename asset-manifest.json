@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/spock/static/css/main.95d9fe31.chunk.css",
+    "main.js": "/spock/static/js/main.a11e2baa.chunk.js",
+    "main.js.map": "/spock/static/js/main.a11e2baa.chunk.js.map",
+    "runtime-main.js": "/spock/static/js/runtime-main.977c2d67.js",
+    "runtime-main.js.map": "/spock/static/js/runtime-main.977c2d67.js.map",
+    "static/js/2.f936ef4b.chunk.js": "/spock/static/js/2.f936ef4b.chunk.js",
+    "static/js/2.f936ef4b.chunk.js.map": "/spock/static/js/2.f936ef4b.chunk.js.map",
+    "index.html": "/spock/index.html",
+    "static/css/main.95d9fe31.chunk.css.map": "/spock/static/css/main.95d9fe31.chunk.css.map",
+    "static/js/2.f936ef4b.chunk.js.LICENSE.txt": "/spock/static/js/2.f936ef4b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.977c2d67.js",
+    "static/js/2.f936ef4b.chunk.js",
+    "static/css/main.95d9fe31.chunk.css",
+    "static/js/main.a11e2baa.chunk.js"
+  ]
+}
