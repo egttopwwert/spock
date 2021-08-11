@@ -1,0 +1,46 @@
+.field {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background: #F5F5F5;
+    border: 1px solid #E7E7E7;
+    box-sizing: border-box;
+    border-radius: 30px;
+
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 1;
+    text-transform: uppercase;
+    color: #B0B0B0;
+    
+    cursor: pointer;
+    transition: background 250ms ease-in-out, transform 150ms ease;
+}
+
+.field:hover {
+    background: #F2F2F2;
+    color: #A0A0A0;
+    font-weight: 500;
+    border-color: #E2E2E2;
+    transform: scale(1.01);
+}
+
+.field:focus {
+    outline: none;
+}
+
+.field:active {
+    transform: scale(0.99);
+}
+
+@media only screen and (max-width: 600px) {
+    .field {
+      border-radius: 0;
+    }
+
+    .field:hover {
+        transform: none;
+    }
+}
